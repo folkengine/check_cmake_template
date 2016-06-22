@@ -33,10 +33,13 @@
 *.su
 
 # Make and CMake
+config.h
 cmake_install.cmake
+CTestTestfile.cmake
 CMakeCache.txt
 Makefile
 CMakeFiles/*
+
 
 # CLion
 .idea/*
