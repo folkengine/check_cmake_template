@@ -38,8 +38,9 @@ cmake_install.cmake
 CTestTestfile.cmake
 CMakeCache.txt
 Makefile
-CMakeFiles/*
-
+/CMakeFiles/*
+/src/CMakeFiles/*
+/tests/CMakeFiles/*
 
 # CLion
 .idea/*
